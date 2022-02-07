@@ -8,4 +8,4 @@ while r != '404':
     #print(r.status_code)
     letters = string.ascii_lowercase
     print(''.join(random.choice(letters) for i in range(10)))
-print('service available!!!')
+print('service available OK!!!')
